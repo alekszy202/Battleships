@@ -1,0 +1,3 @@
+﻿  GameManagment.c
+C:\Users\ASUS\Desktop\Battleships game Pk2\Battleships Pk2\Battleships Pk2\Battleships Pk2\GameManagment.c(277,17): warning C4013: niezdefiniowany "getch"; przy założeniu, że extern zwraca int
+  Battleships Pk2.vcxproj -> C:\Users\ASUS\Desktop\Battleships game Pk2\Battleships Pk2\Battleships Pk2\Debug\Battleships Pk2.exe
